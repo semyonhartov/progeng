@@ -80,20 +80,20 @@ python main.py
 
 ### Скриншоты
 
-- Главное окно: `docs/images/main-window.png`
-- Панель инстанса: `docs/images/local-instance.png`
-- Удалённый доступ: `docs/images/remote-instance.png`
-- Права доступа: `docs/images/user-rules.png`
-- Экспорт инстанса: `docs/images/export.png`
-- Импорт инстанса: `docs/images/import.png`
-- Консоль: `docs/images/console.png`
-- Помощник команд: `docs/images/command-helper.png`
-- Панель модов: `docs/images/mods-panel.png`
-- Поиск модов: `docs/images/curseforge-panel.png`
-- Настройки: `docs/images/settings-panel.png`
-- Файлы: `docs/images/files-panel.png`
-- Бэкапы: `docs/images/backup-panel.png`
-- Окно создания бэкапа: `docs/images/backup-dialog.png`
+- Главное окно: [`docs/images/main-window.png`](docs/images/main-window.png)
+- Панель инстанса: [`docs/images/local-instance.png`](docs/images/local-instance.png)
+- Удалённый доступ: [`docs/images/remote-instance.png`](docs/images/remote-instance.png)
+- Права доступа: [`docs/images/user-rules.png`](docs/images/user-rules.png)
+- Экспорт инстанса: [`docs/images/export.png`](docs/images/export.png)
+- Импорт инстанса: [`docs/images/import.png`](docs/images/import.png)
+- Консоль: [`docs/images/console.png`](docs/images/console.png)
+- Помощник команд: [`docs/images/command-helper.png`](docs/images/command-helper.png)
+- Панель модов: [`docs/images/mods-panel.png`](docs/images/mods-panel.png)
+- Поиск модов: [`docs/images/curseforge-panel.png`](docs/images/curseforge-panel.png)
+- Настройки: [`docs/images/settings-panel.png`](docs/images/settings-panel.png)
+- Файлы: [`docs/images/files-panel.png`](docs/images/files-panel.png)
+- Бэкапы: [`docs/images/backup-panel.png`](docs/images/backup-panel.png)
+- Окно создания бэкапа: [`docs/images/backup-dialog.png`](docs/images/backup-dialog.png)
 
 ### Полезные ссылки
 
@@ -118,6 +118,6 @@ python main.py
 └── docs/
 ```
 
-## Обратная связь
-mr.sokoloff@inbox.ru — Email  
-semyonhartov — Telegram 
+## Обратная связь 
+[@semyonhartov](https://t.me/semyonhartov)  
+[mr.sokoloff@inbox.ru](mailto:mr.sokoloff@inbox.ru) 
