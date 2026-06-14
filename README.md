@@ -119,5 +119,5 @@ python main.py
 ```
 
 ## Обратная связь
-mr.sokoloff@inbox.ru — Email
+mr.sokoloff@inbox.ru — Email  
 semyonhartov — Telegram 
